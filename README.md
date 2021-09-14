@@ -19,3 +19,7 @@ El script funciona de la siguiente manera:
         Leer las columnas ABCDFGH y mete los datos en una listas
         Recorre las listas de cada columna y prepara los datos para crear un archivo doc por cada caso de prueba con sus correspondientes pasos de prueba.
         Con los datos crear un archivo en formato .doc con un formato especifico 
+
+Requirements
+	openpyxl~=3.0.8
+	docx~=0.2.4
