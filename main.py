@@ -36,7 +36,7 @@ from datetime import date
 from operator import itemgetter
 from itertools import groupby
 
-xlsx_file = Path('excel', 'Sample_Model0001.xlsx')
+xlsx_file = Path('sample_excel', 'Sample_Model0001.xlsx')
 wb_obj = openpyxl.load_workbook(xlsx_file)
 
 sheets = wb_obj.sheetnames
