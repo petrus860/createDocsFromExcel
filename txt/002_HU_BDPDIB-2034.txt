@@ -1,0 +1,21 @@
+2
+Verificación del mail en Onboarding (Paso 1)
+CS-002
+Use an invalid email and validate the reCAPTCHA
+
+Create a new user client from the administration using user y pwd
+Go to mail inbox
+Check that email does not contain text "This link expires in 24 hours"
+Access the validation screen from email where we have received the invitation
+Check that the loaded page has title and descriptive text
+Check that the page contains a field to enter the email and reCAPTCHA
+Enter an invalid email and validate the reCAPTCHA
+
+
+User created correctly
+New "user created" email successfully received
+The body of the email there is no text that the link expires
+Screen loaded correctly
+Title and description correctly loaded
+Email field and reCAPTCHA correctly loaded
+An error message should appear without enabling the confirmation button

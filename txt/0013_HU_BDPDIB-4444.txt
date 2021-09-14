@@ -1,0 +1,37 @@
+13
+Nuevo Reset Password por contraseña olvidada con código de verificación
+CS-013
+Use an invalid verification code kjjkdsfdjskfhdjf
+
+Access the validation screen from the email where we have received the invitation
+Enter a valid email and validate the reCAPTCHA
+Put an invalid verification code
+Access the validation screen from the email where we have received the invitation
+Enter a valid email and validate the reCAPTCHA
+Put an invalid verification code
+Access the validation screen from the email where we have received the invitation
+Enter a valid email and validate the reCAPTCHA
+Put an invalid verification code
+Access the validation screen from the email where we have received the invitation
+Enter a valid email and validate the reCAPTCHA
+Put an invalid verification code
+Access the validation screen from the email where we have received the invitation
+Enter a valid email and validate the reCAPTCHA
+Put an invalid verification code
+
+
+Correctly loaded screen taking us to main Login
+Confirm button must be enabled
+You should get an error that the code is invalid and should not let the next page load.
+Correctly loaded screen taking us to main Login
+Confirm button must be enabled
+You should get an error that the code is invalid and should not let the next page load.
+Correctly loaded screen taking us to main Login
+Confirm button must be enabled
+You should get an error that the code is invalid and should not let the next page load.
+Correctly loaded screen taking us to main Login
+Confirm button must be enabled
+You should get an error that the code is invalid and should not let the next page load.
+Correctly loaded screen taking us to main Login
+Confirm button must be enabled
+You should get an error that the code is invalid and should not let the next page load.

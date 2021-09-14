@@ -1,0 +1,15 @@
+6
+Código de verificación por mail en Login (Paso 2)
+CS-006
+Using the wrong verification code.
+
+Based on the tests in step 1 (hu 7378), after confirming the email, a field will be enabled to enter the security code sent to the email address.
+Enter a wrong code
+Make 3 attempts with wrong code
+Try to resend the email request
+
+
+Field to enter the security code correctly loaded
+An error will be displayed to the user and they will be allowed to re-enter a code again, up to 3 times.
+An error will be displayed and on the third attempt the introduction of the code will be blocked and the verification email will have to be requested again.
+Resend the email request correctly sent

@@ -1,0 +1,19 @@
+11
+Nuevo Reset Password por contraseña olvidada con código de verificación
+CS-011
+Use a valid verification code
+
+Access the validation screen from the email where we have received the invitation
+Enter a valid email and validate the reCAPTCHA
+Go to the inbox of the email entered an email has arrived
+Return to onboarding and enter the code received in the email and click on Verify
+Enter new password
+Check that a message is displayed in Toaster format confirming the password change
+
+
+Correctly loaded screen taking us to main Login
+Confirm button must be enabled
+An email must have arrived with a 6-digit numeric code
+A new page should be loaded to be able to change the new password
+The password is correctly configured and the platform portal is accessed
+Message in Toaster format confirming correctly

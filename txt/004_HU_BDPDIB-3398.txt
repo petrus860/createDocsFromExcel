@@ -1,0 +1,17 @@
+4
+Código de verificación por mail en Login (Paso 2)
+CS-004
+Use the verification code before consuming 10 minutes.
+
+Based on the tests of "step 1" (hu 3348), after confirming the email, a field will be enabled to enter the security code sent to the email address.
+Entering the verification code sent in the previous step of the onboarding will have a validity period of 10 minutes.
+Check that a toaster is displayed letting you know that your email has been validated and that you need to create a password to access the portal.
+Check that you are advancing to the next step consisting of choosing a new password.
+Access Client Hub with the newly created user
+
+
+The field to enter the security code has been successfully loaded
+Successfully verified that the security code works for the first 10 minutes.
+The toaster message is displayed correctly
+New password correctly configured.
+A toaster should appear alerting the user that their account has been saved correctly and an email is received with confirmation details of the new account.

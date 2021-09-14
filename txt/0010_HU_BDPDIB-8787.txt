@@ -1,0 +1,13 @@
+10
+Enlace en mail de onboarding ya utilizado (onboarding completado)
+CS-010
+Access the platform from the onboarding email for second time
+
+Based on the test in step 1, return to the mailbox with the verification code
+Access the validation screen from the email where we have received the invitation
+Enter username and password and click on the Login button.
+
+
+Email successfully uploaded
+Screen correctly loaded, taking us to the main Login of the platform
+You should be logged in correctly

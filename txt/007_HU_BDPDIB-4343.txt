@@ -1,0 +1,15 @@
+7
+Código de verificación por mail en Login (Paso 2)
+CS-007
+Generate a new verification code and wait 6 min for the request button to be enabled
+
+Based on the tests in step 1 (hu 2238), after confirming the email, a field will be enabled to enter the security code sent to the email address.
+Wait 6 minutes and enter the generated code.
+Make another request for a new code
+Check that the code generated from step 3 is valid.
+
+
+Field to enter the security code correctly loaded
+It should give an error communicating that the code entered is expired and the request button for a new code is enabled until the 6 minutes have passed
+Code generated correctly
+The code generated from step 3 is valid.

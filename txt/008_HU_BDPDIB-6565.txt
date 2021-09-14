@@ -1,0 +1,13 @@
+8
+Código de verificación por mail en Login (Paso 2)
+CS-008
+We tried to fail 2 times and hit the third attempt
+
+Based on the tests in step 1 (hu 3338), after confirming the email, a field will be enabled to enter the security code sent to the email address.
+Make 2 attempts with wrong code
+Make a 3 try with a valid code
+
+
+Field to enter the security code correctly loaded
+An error will be displayed and on the third attempt the introduction of the code will be blocked and the verification email will have to be requested again.
+You should be able to correctly verify the code.

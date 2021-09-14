@@ -1,0 +1,19 @@
+5
+Código de verificación por mail en Login (Paso 2)
+CS-05
+Use the verification code after 10 minutes.
+
+Based on the tests in step 1 (hu3458), after confirming the email, a field will be enabled to enter the security code sent to the email address.
+Enter the code received after 10 minutes
+Request a new security code
+Check that a message is displayed in Toaster format and the mail has been sent correctly
+Check that after 6 minutes the button is enabled for the user to request the sending of the verification email again.
+Check that the code generated from step 3 is no longer valid
+
+
+Field to enter the security code correctly loaded
+An error message should appear and it is confirmed that the security code is no longer valid after 10 minutes
+A message should appear in Toaster format indicating that the mail has been sent correctly
+The button option to request new code is disabled and the text below changes 
+The button to request the sending of the verification email again is enabled correctly.
+The code generated from step 3 is invalid.

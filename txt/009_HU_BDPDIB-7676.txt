@@ -1,0 +1,19 @@
+9
+Enlace en mail de onboarding ya utilizado (onboarding completado)
+CS-009
+Access the platform from the onboarding email for the first time
+
+Create new user type client from the administration part using user and pwd
+Go to mail inbox
+Access the validation screen from the email where we have received the invitation
+Enter a valid email and validate the reCAPTCHA
+Return to the inbox of the email entered an email has arrived
+Return to onboarding and enter the code received in the email
+
+
+User created successfully
+New created user mail received successfully
+Correctly loaded screen taking us to main Login
+Confirm button must be enabled
+An email must have arrived with a 6-digit numerical verification code
+The password should be correctly configured and access the platform portal
