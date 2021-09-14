@@ -12,8 +12,7 @@ instalar librerias
 he buscado en los xml el valor 66 y le he puesto 50
 
 https://stackoverflow.com/questions/50236928/openpyxl-valueerror-max-value-is-14-when-using-load-workbook
-Ahora mismo estoy usando el fichero "AT_SP25Mod.xlsx" que funciona correctamente.
-Si se quiere reproducit el error 66, hay que usar el nombre del fichero  "AT_SP25.xlsx"
+Ahora mismo estoy usando el fichero "Sample_Model0001.xlsx" que funciona correctamente.
 
 El script funciona de la siguiente manera:
         Leer las columnas ABCDFGH y meter los datos en una lista
@@ -21,10 +20,8 @@ El script funciona de la siguiente manera:
         Recorrer lista de cada columna y preparar los datos para crear un archivo doc por cada caso de prueba con sus
             correspondientes pasos de prueba.
 
-        Con los datos crear un archivo en formato .doc con un formato especifico QA
+        Con los datos crear un archivo en formato .doc con un formato especifico 
 
-Para mejorar el script --> seria bueno añadir una columna que especifique el tipo de app es CF, ASC, GRA, IBOR
-	o preguntar antes por consola
 ---------------------------------------------------------------------------------------------------------
 """
 import openpyxl
